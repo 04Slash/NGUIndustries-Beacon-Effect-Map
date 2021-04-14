@@ -5,3 +5,4 @@ This is a map that will show which tiles are effected by how many beacons. Withi
 Currently only Flesh World is done but the other maps are planned.
 
 
+![](https://github.com/04Slash/NGUIndustries-Beacon-Effect-Map/blob/main/LayerPreview.png)
